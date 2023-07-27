@@ -1,0 +1,18 @@
+{
+    "name": "gioco-plus/hw-contract",
+    "description": "hw Interface",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ellie guo",
+            "email": "Ellie.guo@goldenf.co"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "GiocoPlus\\HW\\": "src/"
+        }
+    },
+    "require": {}
+}
